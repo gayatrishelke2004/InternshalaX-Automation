@@ -29,8 +29,7 @@ Automate the process to apply for internships on [Internshala](https://internsha
 1. **Clone the repository**
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/gayatrishelke2004/InternshalaX-Automation
 ```
 
 2. **Install dependencies**
